@@ -4,8 +4,8 @@ This project is a simple Express.js application that provides a basic CRUD (Crea
 
 ### File Structure
 
-    • [app.js](https://github.com/DiscoverProgramming/CRUD-api/blob/main/app.js): This is the main server file.
-    • [package.json](https://github.com/DiscoverProgramming/CRUD-api/blob/main/package.json): This file lists the project dependencies.
+    • [app.js](app.js): This is the main server file.
+    • [package.json](package.json): This file lists the project dependencies.
 
 ### API Endpoints
 
