@@ -2,6 +2,9 @@
 
 This project is a simple Express.js application that provides a basic CRUD (Create, Read, Update, Delete) API. It uses an in-memory data store, which should be replaced with a real database for production applications.
 
+## Why I created this
+I created this simple API as my first project to post onto the Community Exchange. If I got something wrong or anyone has an idea on how to improve it, feel free to create a PR!
+
 ### File Structure
 
 • [app.js](app.js): This is the main server file.
